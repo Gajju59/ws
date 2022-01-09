@@ -1,0 +1,17 @@
+button  {
+       background-color:#FFD369 ;
+       width: 50%;
+        color: #black;
+        padding: 15px;
+        margin: 10px 0px;
+        border: none;
+        cursor: pointer;
+         }
+       body{
+          margin-top: 0;
+          font-family: cursive;
+          font-size: 50px;
+        }
+h1{
+  font-size: 70;
+}
